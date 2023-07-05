@@ -13,7 +13,7 @@
         <p class="fs-14 font-bold color-green text-uppercase">Опыт веб-разработки с 2013 года</p>
         <div class="tiped-wrap">
           Помогаю заказчикам в:
-          <h1 class="h1"><span class="js-example"></span></h1>
+          <h1 class="h1"><span style="display: none;">Помогаю заказчикам в:</span><span class="js-example"></span></h1>
         </div>
         <a href="/about/" title="Meet" class="view-btn mt-2">Продолжить знакомство</a>
         <div class="arrow-wrap relative">

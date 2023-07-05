@@ -16,6 +16,7 @@
 </section>
 
 <section class="s-blog section--inner">
+  <h2 style="display: none;">Articles</h2>
   <div class="container">
     <div class="row">
 
@@ -23,7 +24,7 @@
         <article class="card-blog">
           <div class="card-img">
             <a href="/blog/blogdetail/">
-              <img src="/assets/images/blog/articles/item.jpg" alt="" />
+              <img src="/assets/images/blog/articles/item.jpg" alt="" >
             </a>
           </div>
           <div class="card-content">
@@ -37,7 +38,7 @@
         <article class="card-blog">
           <div class="card-img">
             <a href="/blog/blogdetail/">
-              <img src="/assets/images/blog/articles/item.jpg" alt="" />
+              <img src="/assets/images/blog/articles/item.jpg" alt="" >
             </a>
           </div>
           <div class="card-content">
@@ -51,7 +52,7 @@
         <article class="card-blog">
           <div class="card-img">
             <a href="/blog/blogdetail/">
-              <img src="/assets/images/blog/articles/item.jpg" alt="" />
+              <img src="/assets/images/blog/articles/item.jpg" alt="" >
             </a>
           </div>
           <div class="card-content">
@@ -65,7 +66,7 @@
         <article class="card-blog">
           <div class="card-img">
             <a href="/blog/blogdetail/">
-              <img src="/assets/images/blog/articles/item.jpg" alt="" />
+              <img src="/assets/images/blog/articles/item.jpg" alt="" >
             </a>
           </div>
           <div class="card-content">
@@ -79,7 +80,7 @@
         <article class="card-blog">
           <div class="card-img">
             <a href="/blog/blogdetail/">
-              <img src="/assets/images/blog/articles/item.jpg" alt="" />
+              <img src="/assets/images/blog/articles/item.jpg" alt="" >
             </a>
           </div>
           <div class="card-content">
@@ -93,7 +94,7 @@
         <article class="card-blog">
           <div class="card-img">
             <a href="/blog/blogdetail/">
-              <img src="/assets/images/blog/articles/item.jpg" alt="" />
+              <img src="/assets/images/blog/articles/item.jpg" alt="" >
             </a>
           </div>
           <div class="card-content">

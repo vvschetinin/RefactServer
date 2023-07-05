@@ -16,17 +16,17 @@
               <ul class="form-fields">
                 <li>
                   <div class="input-container">
-                    <input name="name" type="text" value="" class="large" required placeholder="Ваше имя *" />
+                    <input name="name" type="text" value="" class="large" required placeholder="Ваше имя *" >
                   </div>
                 </li>
                 <li>
                   <div class="input-container">
-                    <input name="phone" type="tel" id="phone-mask" value="" class="large" required placeholder="Номер телефона *" />
+                    <input name="phone" type="tel" id="phone-mask" value="" class="large" required placeholder="Номер телефона *" >
                   </div>
                 </li>
                 <li>
                   <div class="input-container">
-                    <input name="email" type="email" value="" class="large" placeholder="E-mail" />
+                    <input name="email" type="email" value="" class="large" placeholder="E-mail" >
                   </div>
                 </li>
                 <li>

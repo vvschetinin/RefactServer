@@ -2,14 +2,14 @@
 <?php $root = $_SERVER['DOCUMENT_ROOT']; ?>
 <?php require_once $root . '/interface/init.php'; ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
 
 <head>
   <?php if (file_exists($root . "/interface/include/headtitle.php")) : ?>
   <?php require_once $root . '/interface/include/headtitle.php'; ?>
   <?php endif; ?>
   <link rel="shortcut icon" href="/assets/images/general/favicon.ico" type="image/ico">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.2, user-scalable=yes" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.2, user-scalable=yes" >
   <link rel="stylesheet" href="/assets/css/style.css">
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-HW85CZ4V52"></script>
@@ -22,7 +22,7 @@
   </script>
 
   <!-- Yandex.Metrika counter -->
-  <script type="text/javascript">
+  <script>
   (function(m, e, t, r, i, k, a) {
     m[i] = m[i] || function() {
       (m[i].a = m[i].a || []).push(arguments)
@@ -39,13 +39,14 @@
     accurateTrackBounce: true
   });
   </script>
-  <noscript>
-    <div><img src="https://mc.yandex.ru/watch/65009764" style="position:absolute; left:-9999px;" alt="" /></div>
-  </noscript>
+
   <!-- /Yandex.Metrika counter -->
 </head>
 
 <body>
+  <noscript>
+    <div><img src="https://mc.yandex.ru/watch/65009764" style="position:absolute; left:-9999px;" alt="" ></div>
+  </noscript>
   <div class="page-wrap">
 
     <header class="header">
