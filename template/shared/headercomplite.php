@@ -8,18 +8,21 @@
   <title>Сайт Владлена Щетинина | Страница 404</title>
   <meta name="robots" content="index, follow" />
   <meta name="keywords" content="Page 404" />
-  <meta name="description" content="Страница ошибки url-адреса 404" >
+  <meta name="description" content="Страница ошибки url-адреса 404">
   <link rel="shortcut icon" href="/assets/images/general/favicon.ico" type="image/ico">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.2, user-scalable=yes" >
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.2, user-scalable=yes">
   <link rel="stylesheet" href="/assets/css/style.css">
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-HW85CZ4V52"></script>
   <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
+  window.dataLayer = window.dataLayer || [];
 
-    gtag('config', 'G-HW85CZ4V52');
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag('js', new Date());
+
+  gtag('config', 'G-HW85CZ4V52');
   </script>
 
   <!-- Yandex.Metrika counter -->
@@ -43,9 +46,6 @@
 </head>
 
 <body>
-  <noscript>
-    <div><img src="https://mc.yandex.ru/watch/65009764" style="position:absolute; left:-9999px;" alt="" /></div>
-  </noscript>
   <div class="page-wrap">
 
     <header class="header">
@@ -62,7 +62,8 @@
               <?php require_once $root . '/interface/include/decstop-menu.php'; ?>
               <?php endif; ?>
             </nav>
-            <button class="start-project-btn display-none display-inline-block--sm js-startproject" title="Contact me">Свяжитесь со
+            <button class="start-project-btn display-none display-inline-block--sm js-startproject"
+              title="Contact me">Свяжитесь со
               мной</button>
             <button class="nav-toggle display-block display-none--lg">
               <span class="nav-toggle__line"></span>

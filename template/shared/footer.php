@@ -23,6 +23,9 @@
 <?php endif;?>
 </div>
 
+<noscript>
+  <div><img src="https://mc.yandex.ru/watch/65009764" style="position:absolute; left:-9999px;" alt=""></div>
+</noscript>
 <script type="module" crossorigin src="/assets/js/script.js"></script>
 
 </body>
