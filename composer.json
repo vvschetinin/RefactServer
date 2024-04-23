@@ -1,0 +1,23 @@
+{
+  "name": "vladlen/mywebsite",
+  "description": "My Personal Website",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Vladlen Schetinin",
+      "email": "born-1965@mail.ru"
+    }
+  ],
+  "minimum-stability": "stable",
+  "config": {
+    "sort-packages": true
+  },
+  "require": {
+    "php": ">=8.0.0",
+    "phpmailer/phpmailer": "^6.9"
+  },
+  "require-dev": {
+    "roave/security-advisories": "dev-latest"
+  }
+}
